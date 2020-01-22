@@ -40,7 +40,7 @@ const Preferences: Dictionary<any> = {
     CATEGORY_THEME: 'theme',
     THEMES: {
         default: {
-            type: 'GitCoin',
+            type: 'Gitcoin',
             sidebarBg: '#15003e',
             sidebarText: '#ffffff',
             sidebarUnreadText: '#ffffff',
